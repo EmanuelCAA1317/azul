@@ -20,3 +20,6 @@ random.shuffle(listaAzulejos)
 
 for i in range(10):
     print(listaAzulejos[i].print())
+
+
+a = 'testando add aqrquiv'
